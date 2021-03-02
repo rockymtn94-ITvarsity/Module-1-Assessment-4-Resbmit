@@ -1,0 +1,29 @@
+th {
+     font-weight: 700;
+     background-color: #2695A6;
+     color           : #F2F5A9;
+    
+    
+}
+
+
+
+table{
+    font-family: helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style:solid;
+    border-color: #6E6E6E;
+    background-color:#F2F2F2;
+    border-spacing: 0;
+    margin: 100px auto;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../Movies/star.jpg) ;
+    background-size: cover;
+    background-attachment: fixed;
+}
